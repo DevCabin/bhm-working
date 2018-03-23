@@ -23,8 +23,10 @@
 <body <?php body_class(); ?>>
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'xstart' ); ?></a>
-
+		<?php /*
 	<header id="masthead" class="site-header">
+
+
 		<div class="site-branding">
 			<?php
 			the_custom_logo();
@@ -37,7 +39,7 @@
 
 			$description = get_bloginfo( 'description', 'display' );
 			if ( $description || is_customize_preview() ) : ?>
-				<p class="site-description"><?php echo $description; /* WPCS: xss ok. */ ?></p>
+				<p class="site-description"><?php echo $description; ?></p>
 			<?php
 			endif; ?>
 		</div><!-- .site-branding -->
@@ -51,6 +53,8 @@
 				) );
 			?>
 		</nav><!-- #site-navigation -->
+
 	</header><!-- #masthead -->
+		*/ ?>
 
 	<div id="content" class="site-content">
