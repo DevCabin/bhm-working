@@ -4223,3 +4223,59 @@ object {
 
 .gallery-caption {
   display: block; }
+
+
+
+/*
+Useful comment
+*/
+h1, h2, h3, h4, h5, h6 {
+    font-size: 22px !important;
+    line-height: 30px;
+    color: #6889af;
+    font-family: 'Copse',serif;
+    margin-bottom: 16px;
+}
+
+p {
+    font-size: 16px;
+    color: #000000;
+    line-height: 28px;
+    margin-bottom: 14px;
+}
+
+:root{
+  --blue: #28445B;
+  --gray: #333;
+}
+/*
+.main-header {
+  color: var(--main-color);
+}
+*/
+
+body {
+  font-family: 'Copse',serif;
+}
+
+.footer {
+  background-color: var(--gray);
+
+}
+
+.prefooter {
+  background-color: var(--blue);
+  width: 100%;
+  display: inline-block;
+  height: 80px;
+  margin-bottom: 0px;
+}
+
+.footer-container {
+    background-color: #333;
+}
+
+.footer p, .footer-container p {
+    font-family: arial,helvetica,sans-serif;
+    color: #fff;
+}

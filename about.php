@@ -41,7 +41,7 @@
  */
  ?>
  <style type="text/css">
- #wsb-element-ada7df3f-78da-4547-b3c0-0e4bda10989d{top:31px;left:41px;position:absolute;z-index:38}#wsb-element-ada7df3f-78da-4547-b3c0-0e4bda10989d .txt{width:470px;height:60px}#wsb-element-6cf6b15f-cbbd-40ae-b338-12e5ed777e2b{top:326px;left:118px;position:absolute;z-index:89}#wsb-element-6cf6b15f-cbbd-40ae-b338-12e5ed777e2b .txt{width:1241px;height:2008px}#wsb-element-5edd403b-8603-4072-a836-6da42b8e7aaf{top:2303px;left:118px;position:absolute;z-index:167}#wsb-element-5edd403b-8603-4072-a836-6da42b8e7aaf .wsb-image-inner{}#wsb-element-5edd403b-8603-4072-a836-6da42b8e7aaf .wsb-image-inner div{width:218px;height:49px;position:relative;overflow:hidden}#wsb-element-5edd403b-8603-4072-a836-6da42b8e7aaf img{position:absolute}#wsb-element-2eab6a2d-5259-45c4-a4aa-b6bb3c58ce43{top:310px;left:-459.98px;position:absolute;z-index:88}#wsb-element-2eab6a2d-5259-45c4-a4aa-b6bb3c58ce43 .wsb-shape{width:1920px;height:2072px;padding:0px;background:#fff;box-sizing:content-box;-moz-box-sizing:content-box}#wsb-element-35a161f3-3fd6-41bd-9c0a-a0f0bf38b9d6{top:89px;left:43px;position:absolute;z-index:87}#wsb-element-35a161f3-3fd6-41bd-9c0a-a0f0bf38b9d6 .txt{width:300px;height:68px}#wsb-element-204f3633-9312-405b-9a6a-42d1a3b773bc{top:49px;left:-73px;position:absolute;z-index:69}#wsb-element-204f3633-9312-405b-9a6a-42d1a3b773bc{width:1146px;height:40px}#wsb-element-fba8c944-2bd6-4879-be88-eb8bae5475e3{top:2295px;left:531px;position:absolute;z-index:221}#wsb-element-fba8c944-2bd6-4879-be88-eb8bae5475e3 .wsb-image-inner{}#wsb-element-fba8c944-2bd6-4879-be88-eb8bae5475e3 .wsb-image-inner div{width:143px;height:57px;position:relative;overflow:hidden}#wsb-element-fba8c944-2bd6-4879-be88-eb8bae5475e3 img{position:absolute}#wsb-element-ec483699-c234-4b68-a1dd-db188d018637{top:0px;left:-460px;position:absolute;z-index:7}#wsb-element-ec483699-c234-4b68-a1dd-db188d018637 .wsb-image-inner{}#wsb-element-ec483699-c234-4b68-a1dd-db188d018637 .wsb-image-inner div{width:1920px;height:308px;position:relative;overflow:hidden}#wsb-element-ec483699-c234-4b68-a1dd-db188d018637 img{position:absolute}#wsb-element-ea6b35a3-f688-4794-86e5-7e6a3079db8d{top:2298px;left:372px;position:absolute;z-index:170}#wsb-element-ea6b35a3-f688-4794-86e5-7e6a3079db8d .wsb-image-inner{}#wsb-element-ea6b35a3-f688-4794-86e5-7e6a3079db8d .wsb-image-inner div{width:116px;height:51px;position:relative;overflow:hidden}#wsb-element-ea6b35a3-f688-4794-86e5-7e6a3079db8d img{position:absolute}#wsb-element-9a4532dd-ebb4-4c49-ac61-4d8e55999952{top:31px;left:616px;position:absolute;z-index:40}#wsb-element-9a4532dd-ebb4-4c49-ac61-4d8e55999952 .txt{width:409px;height:75px}
+ #wsb-element-ada7df3f-78da-4547-b3c0-0e4bda10989d{top:31px;left:41px;position:absolute;z-index:38}#wsb-element-ada7df3f-78da-4547-b3c0-0e4bda10989d .txt{width:470px;height:60px}#wsb-element-6cf6b15f-cbbd-40ae-b338-12e5ed777e2b{width:768px;top:326px;left:118px;position:absolute;z-index:89}#wsb-element-6cf6b15f-cbbd-40ae-b338-12e5ed777e2b .txt{width:1241px;height:2008px}#wsb-element-5edd403b-8603-4072-a836-6da42b8e7aaf{top:2303px;left:118px;position:absolute;z-index:167}#wsb-element-5edd403b-8603-4072-a836-6da42b8e7aaf .wsb-image-inner{}#wsb-element-5edd403b-8603-4072-a836-6da42b8e7aaf .wsb-image-inner div{width:218px;height:49px;position:relative;overflow:hidden}#wsb-element-5edd403b-8603-4072-a836-6da42b8e7aaf img{position:absolute}#wsb-element-2eab6a2d-5259-45c4-a4aa-b6bb3c58ce43{top:310px;left:-459.98px;position:absolute;z-index:88}#wsb-element-2eab6a2d-5259-45c4-a4aa-b6bb3c58ce43 .wsb-shape{width:1920px;height:2072px;padding:0px;background:#fff;box-sizing:content-box;-moz-box-sizing:content-box}#wsb-element-35a161f3-3fd6-41bd-9c0a-a0f0bf38b9d6{top:89px;left:43px;position:absolute;z-index:87}#wsb-element-35a161f3-3fd6-41bd-9c0a-a0f0bf38b9d6 .txt{width:300px;height:68px}#wsb-element-204f3633-9312-405b-9a6a-42d1a3b773bc{top:49px;left:-73px;position:absolute;z-index:69}#wsb-element-204f3633-9312-405b-9a6a-42d1a3b773bc{width:1146px;height:40px}#wsb-element-fba8c944-2bd6-4879-be88-eb8bae5475e3{top:2295px;left:531px;position:absolute;z-index:221}#wsb-element-fba8c944-2bd6-4879-be88-eb8bae5475e3 .wsb-image-inner{}#wsb-element-fba8c944-2bd6-4879-be88-eb8bae5475e3 .wsb-image-inner div{width:143px;height:57px;position:relative;overflow:hidden}#wsb-element-fba8c944-2bd6-4879-be88-eb8bae5475e3 img{position:absolute}#wsb-element-ec483699-c234-4b68-a1dd-db188d018637{top:0px;left:-460px;position:absolute;z-index:7}#wsb-element-ec483699-c234-4b68-a1dd-db188d018637 .wsb-image-inner{}#wsb-element-ec483699-c234-4b68-a1dd-db188d018637 .wsb-image-inner div{width:1920px;height:308px;position:relative;overflow:hidden}#wsb-element-ec483699-c234-4b68-a1dd-db188d018637 img{position:absolute}#wsb-element-ea6b35a3-f688-4794-86e5-7e6a3079db8d{top:2298px;left:372px;position:absolute;z-index:170}#wsb-element-ea6b35a3-f688-4794-86e5-7e6a3079db8d .wsb-image-inner{}#wsb-element-ea6b35a3-f688-4794-86e5-7e6a3079db8d .wsb-image-inner div{width:116px;height:51px;position:relative;overflow:hidden}#wsb-element-ea6b35a3-f688-4794-86e5-7e6a3079db8d img{position:absolute}#wsb-element-9a4532dd-ebb4-4c49-ac61-4d8e55999952{top:31px;left:616px;position:absolute;z-index:40}#wsb-element-9a4532dd-ebb4-4c49-ac61-4d8e55999952 .txt{width:409px;height:75px}
  </style>
  <div class="wsb-canvas body">
 	 <div class="wsb-canvas-page-container" style="min-height: 100%; padding-top: 0px; position: relative;">
@@ -49,7 +49,24 @@
 		 <div class="wsb-canvas-page page" id="wsb-canvas-template-page" style="height: 2382px; margin: auto; width: 1000px; background-color: #27455b; position: relative;">
 			 <div id="wsb-canvas-template-container" style="position: absolute;">
 				 <div class="wsb-element-text" data-type="element" id="wsb-element-6cf6b15f-cbbd-40ae-b338-12e5ed777e2b">
-					 <div class="txt">
+
+
+           <?php
+           while ( have_posts() ) : the_post();
+
+             get_template_part( 'template-parts/content', 'page' );
+
+             // If comments are open or we have at least one comment, load up the comment template.
+             if ( comments_open() || get_comments_number() ) :
+               comments_template();
+             endif;
+
+           endwhile; // End of the loop.
+           ?>
+
+
+
+					 <!--div class="txt">
 						 <h1><span style="font-size:22px;">Professional Experience&nbsp;</span><br></h1>
 						 <h3 class="editor_page_header"><span style="font-size:22px;"></span><span style="color:#000000;"><span style="font-size:16px;">Independent Practice:&nbsp;2010–Present<br class="editor_page_header">
 						 Keystone Treatment Center:&nbsp;2007–2012<br class="editor_page_header">
@@ -102,7 +119,7 @@
 						 August 1995</span></span><br>
 						 <br>
 						 <span style="font-size:22px;">Affiliations</span><br></h3>
-					 </div>
+					 </div-->
 				 </div>
 				 <div class="wsb-element-image" data-type="element" id="wsb-element-5edd403b-8603-4072-a836-6da42b8e7aaf">
 					 <div class="wsb-image-inner">

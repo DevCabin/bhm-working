@@ -32,32 +32,46 @@
 
 */ ?>
 
+<div class="prefooter">
 
-<div class="wsb-canvas-page-footer footer" id="wsb-canvas-template-footer" style="margin: auto; min-height:100px; height: 157px; width: 1000px; position: relative;">
-	<div class="footer-container" id="wsb-canvas-template-footer-container" style="position: absolute">
-		<div class="wsb-element-text" id="wsb-element-ada7df3f-78da-4547-b3c0-0e4bda10989d">
-			<div class="txt">
-				<p><span style="font-family:arial,helvetica,sans-serif;"></span><br></p>
-				<p><span style="font-family:arial,helvetica,sans-serif;">1601 East 69th Street, Suite 306, Sioux Falls, SD 57108</span></p>
-				<pre style="font-family:inherit"><span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.bhmtherapy.com/home.html" target="">Get Directions »</a></span></pre>
-			</div>
+</div>
+<div class="wsb-canvas-page-footer footer" >
+	<div class="footer-container">
+				<p>1601 East 69th Street, Suite 306, Sioux Falls, SD 57108</p>
+				<pre style="font-family:inherit">
+					<span style="font-family:arial,helvetica,sans-serif;">
+						<a href="http://www.bhmtherapy.com/home.html" target="">Get Directions »</a>
+					</span>
+				</pre>
 		</div>
-		<div class="wsb-element-text" id="wsb-element-35a161f3-3fd6-41bd-9c0a-a0f0bf38b9d6">
-			<div class="txt">
-				<p><span style="font-family:arial,helvetica,sans-serif;">​</span><br></p>
-				<p><span style="font-family:arial,helvetica,sans-serif;">605.330.9997 •&nbsp;​<a href="http://www.bhmtherapy.com/home.html" target=""></a><a href="mailto:brenda@bhmtherapy.com" target="_blank">brenda@bhmtherapy.com</a></span></p>
-			</div>
+	</div>
+
+		<div class="wsb-element-text" >
+
+				<p>
+					<span style="font-family:arial,helvetica,sans-serif;">605.330.9997 •&nbsp;​<a href="http://www.bhmtherapy.com/home.html" target=""></a><a href="mailto:brenda@bhmtherapy.com" target="_blank">brenda@bhmtherapy.com</a></span>
+				</p>
+
 		</div>
-		<div class="wsb-element-text" id="wsb-element-9a4532dd-ebb4-4c49-ac61-4d8e55999952">
-			<div class="txt">
-				<pre style="text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><br>​Copyright © Brenda Hansen-Mayer Professional Counselor.<br>​All rights reserved. Site by </span></span><span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.kravebranding.com/" target="_blank">Krave Branding, LLC.</a></span><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"></span></span><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"></span></span></pre>
-			</div>
+		<div class="wsb-element-text" >
+
+				<pre style="text-align: center;">
+					<span style="font-family:arial,helvetica,sans-serif;">
+						<span style="font-size:14px;">
+							<br>​Copyright © Brenda Hansen-Mayer Professional Counselor.<br>
+							​All rights reserved. Site by
+						</span>
+					</span>
+					<span style="font-family:arial,helvetica,sans-serif;">
+						<a href="http://www.kravebranding.com/" target="_blank">Krave Branding, LLC.</a></span>
+						<span style="font-family:arial,helvetica,sans-serif;">
+							<span style="font-size:14px;"></span></span>
+					</pre>
+
 		</div>
 	</div>
 </div>
-<div class="view-as-mobile" style="padding:10px;position:relative;text-align:center;display:none;">
-	<a href="http://www.bhmtherapy.com/about-bhm.html#" onclick="return false;">View on Mobile</a>
-</div>
+
 </div>
 </div>
 <script type="text/javascript">
