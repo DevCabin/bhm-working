@@ -57,4 +57,21 @@
 	</header><!-- #masthead -->
 		*/ ?>
 
-	<div id="content" class="site-content">
+	<div class="header-image">
+		<div class="wsb-nav nav_theme nav-text-center nav-horizontal nav-btn-center nav-equal-width wsb-navigation-rendered-top-level-container">
+	 	
+	 	<div class="inner">
+	 		<nav id="site-navigation" class="main-navigation">
+		 	<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'xstart' ); ?></button>
+		 		<?php
+		 			wp_nav_menu( array(
+		 				'theme_location' => 'menu-1',
+		 				'menu_id'        => 'primary-menu',
+		 			) );
+		 		?>
+		 	</nav><!-- #site-navigation -->	
+		 	</div>	
+	 	</div>	
+ 	</div>	
+
+	
