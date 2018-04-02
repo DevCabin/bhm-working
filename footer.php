@@ -40,6 +40,9 @@
 		<div class="footer-container">
 			<div class="fifty left" >
 
+
+<?php dynamic_sidebar( 'footer-left' ); ?>
+<?php /*
 				<p>1601 East 69th Street, Suite 306, Sioux Falls, SD 57108 <br>
 					<a href="http://www.bhmtherapy.com/home.html" target="">Get Directions »</a>
 				</p>
@@ -49,16 +52,17 @@
 				<p>
 					605.330.9997 •&nbsp;​<a href="http://www.bhmtherapy.com/home.html" target=""></a><a href="mailto:brenda@bhmtherapy.com" target="_blank">brenda@bhmtherapy.com</a>
 				</p>
-
+*/?>
 			</div>
 			<div class="fifty right" >
-
+<?php dynamic_sidebar( 'footer-right' ); ?>
+<?php /*
 					<p>
 						Copyright © Brenda Hansen-Mayer Professional Counselor.<br>
 						All rights reserved. Site by <a href="http://www.kravebranding.com/" target="_blank">Krave Branding, LLC.</a>
 					</p>
 								
-
+*/?>
 			</div>
 		</div>
 	</div>

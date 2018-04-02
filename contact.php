@@ -100,13 +100,14 @@
 							endwhile; // End of the loop.
 							?>
 
-
+							<?php dynamic_sidebar( 'contact-footer' ); ?>
+<?php /*
 <img class="contact-image" src="http://bhm.new.lamodeadvertising.com/wp-content/uploads/2018/03/158afede4742b2c8f1655e9262d22f87.jpg" alt="" width="544" height="288" srcset="http://bhm.new.lamodeadvertising.com/wp-content/uploads/2018/03/158afede4742b2c8f1655e9262d22f87.jpg 544w, http://bhm.new.lamodeadvertising.com/wp-content/uploads/2018/03/158afede4742b2c8f1655e9262d22f87-300x159.jpg 300w" sizes="(max-width: 544px) 100vw, 544px" />
 
 <div class="contact-map">
 	<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d46328.145018628406!2d-96.79904750995993!3d43.4708456007077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x878eb6f82f0cf5ad%3A0x7fb139d240036ab8!2s1601+E+69th+St%2C+Sioux+Falls%2C+SD+57108!3m2!1d43.488741399999995!2d-96.70446009999999!5e0!3m2!1sen!2sus!4v1522380170716" width="544" height="288" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
-	
+*/?>
 <style type="text/css">
 .contact-image {
 	width: 544px;

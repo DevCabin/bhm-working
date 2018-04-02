@@ -102,13 +102,31 @@ add_action( 'after_setup_theme', 'xstart_content_width', 0 );
  */
 function xstart_widgets_init() {
 	register_sidebar( array(
-		'name'          => esc_html__( 'Sidebar', 'xstart' ),
-		'id'            => 'sidebar-1',
+		'name'          => esc_html__( 'Footer Area Left', 'xstart' ),
+		'id'            => 'footer-left',
 		'description'   => esc_html__( 'Add widgets here.', 'xstart' ),
 		'before_widget' => '<section id="%1$s" class="widget %2$s">',
 		'after_widget'  => '</section>',
-		'before_title'  => '<h2 class="widget-title">',
-		'after_title'   => '</h2>',
+		'before_title'  => '',
+		'after_title'   => '',
+	) );
+	register_sidebar( array(
+		'name'          => esc_html__( 'Footer Area Right', 'xstart' ),
+		'id'            => 'footer-right',
+		'description'   => esc_html__( 'Add widgets here.', 'xstart' ),
+		'before_widget' => '<section id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</section>',
+		'before_title'  => '',
+		'after_title'   => '',
+	) );
+		register_sidebar( array(
+		'name'          => esc_html__( 'Contact Page Pre-Footer', 'xstart' ),
+		'id'            => 'contact-footer',
+		'description'   => esc_html__( 'Add widgets here.', 'xstart' ),
+		'before_widget' => '<section id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</section>',
+		'before_title'  => '',
+		'after_title'   => '',
 	) );
 }
 add_action( 'widgets_init', 'xstart_widgets_init' );
